@@ -51,4 +51,4 @@ jarred.caris@gmail.com
 [click for video] (https://drive.google.com/file/d/1FGKL9BO5TSSME4vQabOq0SZzxckqyJW5/view)
 
 
-[click for URL] (https://jarred-caris.github.io/note_taker/)
+[click for URL] (https://jarred-caris.github.io/e-commerce_back_end/)
